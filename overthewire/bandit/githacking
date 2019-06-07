@@ -5,3 +5,5 @@ git branch -a
 git checkout -b [branch name]
 git log
 git show [commit id]
+git add [file name] -f #-f defines forecefully
+git push 
