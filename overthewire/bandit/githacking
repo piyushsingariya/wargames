@@ -1,0 +1,7 @@
+git log
+git show [commit id]
+git branch
+git branch -a
+git checkout -b [branch name]
+git log
+git show [commit id]
