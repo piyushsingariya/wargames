@@ -1,0 +1,2 @@
+picoCTF{n0w_y0u_533_m3}
+I solved it by using stegsolve in git folder sectools stego

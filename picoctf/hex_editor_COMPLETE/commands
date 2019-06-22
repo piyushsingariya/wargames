@@ -1,0 +1,5 @@
+strings hexedit hex_editor.jpg
+strings hexedit hex_editor.jpg | tail -n 1
+strings hexedit hex_editor.jpg | tail -n 1 | cut -d '"' f2
+xxd hex_editor.jpg 
+xxd -p hex_editor.jpg 

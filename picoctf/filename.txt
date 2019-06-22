@@ -1,0 +1,2 @@
+That wasn't so hard was it?
+picoCTF{NEtcat_iS_a_NEcESSiTy_c97963fe}

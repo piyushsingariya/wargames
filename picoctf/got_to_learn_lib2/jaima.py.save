@@ -1,0 +1,5 @@
+import pwn
+import re
+
+gdb_puts = 0xf7e310a0
+gdb_system = 0xf7e310a0
